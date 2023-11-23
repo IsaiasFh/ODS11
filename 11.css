@@ -15,21 +15,20 @@ a{
 	color:white;
 }
 nav{
-	display:grid;
-	grid-template-columns:repeat(3, 1fr);
-	grid-gap:10px;
-	grid-auto-rows:minimax(50px);
+	display:flex;
 	width:auto;
 	height:auto;
 	justify-content:center;
 	align-items:center;
 	background-color:#00BFFF;
+	flex-wrap:wrap;
 	
 }
 article{
+	width:auto;
+	height:auto;
 	display:flex;
-	flex-direction:;
-	justify-content:center;
+	flex-wrap:wrap;
 	align-items:center;
 	
 }
@@ -47,3 +46,16 @@ section{
 	width:100px;
 	height:100px;
 }
+.container{
+	max-width:800px;
+	margin:20px auto;
+	background-color:#fff;
+	padding:20px;
+	border-radius:8px;
+	bow-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+	display:flex;
+	flex-wrap:wrap;
+	
+
+}
+
