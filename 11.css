@@ -1,4 +1,4 @@
-@media handheld and (min-width:30px) and (max-width:500px){
+@media handheld and (min-width:30px) and (max-width:700px){
 	body{
 		font-size:1.6em;
 	}
