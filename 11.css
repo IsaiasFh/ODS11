@@ -1,6 +1,9 @@
-@media screen and (min-width:250px) and (max-width:600px){
+@media screen and (min-width:30px) and (max-width:600px){
 	body{
-		font-size:1.4em;
+		font-size:1.7em;
+	}
+	a{
+		font-size:1.7em;
 	}
 	footer{
 		margin-bottom: 0;
