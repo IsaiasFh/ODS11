@@ -11,6 +11,12 @@
 		height:267px;
 	}
 }
+@media screen and (min-width:601px) and (max-width:1200px){
+	#sustent{
+		width:800px;
+		height:449px;
+	}
+}
 
 body{
 	font-size:1.4em;
