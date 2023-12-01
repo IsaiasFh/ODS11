@@ -59,7 +59,7 @@ footer{
 	display:flex;
 	flex-direction:row;
 	justify-content:space-evenly;
-	font-size:13px;
+	font-size:0.7em;
 	color:white;
 	background-color:black;
 	padding:20px;
