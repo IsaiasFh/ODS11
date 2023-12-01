@@ -2,6 +2,7 @@
 	body{
 		font-size:1.5em;
 	}
+
 }
 body{
 	background-color:#a1c5f8;
@@ -10,7 +11,6 @@ a{
 	text-decoration:none;
 	font-family:verdana;
 	font-size:17px;
-	font-style:	;
 	color:white;
 }
 aside#botão{
