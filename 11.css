@@ -15,7 +15,7 @@
 body{
 	font-size:1.4em;
 	font-family:verdana;
-	padding: 0;	
+	margin: 0;	
 }	
 header{
 	display:flex;
